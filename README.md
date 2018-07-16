@@ -1,2 +1,4 @@
 # OpenBadgeStuff
-Storing some stuff for the Rhythm Badge project (my summer 2018 research)
+Storing some stuff for the Rhythm Badge project
+
+I spent the summer of 2018 working on this project. This repo contains  a couple of the contributions I made.
